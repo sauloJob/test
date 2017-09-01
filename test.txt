@@ -5,6 +5,4 @@ test C
 test D
 test E
 test F
-test G GGGGG
-
-create develop
+test G develop
